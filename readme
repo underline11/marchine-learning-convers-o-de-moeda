@@ -1,0 +1,39 @@
+# Conversão de Moeda
+
+O projeto **Conversão de Moeda** é uma aplicação Python que permite a conversão entre diferentes moedas utilizando taxas de câmbio atualizadas. O objetivo é fornecer uma ferramenta simples e eficaz para converter valores de uma moeda para outra com base nas taxas de câmbio mais recentes.
+
+## Funcionalidades
+
+- Conversão entre várias moedas.
+- Atualização das taxas de câmbio em tempo real.
+- Interface de linha de comando (CLI) para interação com o usuário.
+
+## Tecnologias Utilizadas
+
+- **Python 3.x**: Linguagem de programação.
+- **Requests**: Biblioteca para fazer solicitações HTTP e obter taxas de câmbio.
+- **json**: Para manipulação de dados no formato JSON.
+
+## Instalação
+
+Para instalar as dependências do projeto, siga estas etapas:
+
+1. Clone o repositório:
+    
+    git clone https://github.com/seuusuario/conversao-moeda.git
+    ```
+2. Navegue até o diretório do projeto:
+   
+    cd conversao-moeda
+    ```
+3. Instale as dependências:
+   
+    pip install -r requirements.txt
+    ```
+
+## Uso
+
+Para utilizar a aplicação, execute o seguinte comando:
+
+
+python conversao.py
