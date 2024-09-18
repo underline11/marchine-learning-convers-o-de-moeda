@@ -1,0 +1,43 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Ambiente virtual
+venv/
+env/
+*.venv
+
+# Arquivos de configuração
+*.env
+
+# Arquivos de log
+*.log
+
+# Arquivos temporários
+*.tmp
+*.swp
+
+# Arquivos de backup
+*.bak
+
+# Arquivos de banco de dados
+*.sqlite3
+*.db
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# IDEs e editores de código
+.vscode/
+.idea/
+
+# Arquivos de testes
+*.coverage
+*.coverage.*
+nosetests.xml
+coverage.xml
+*.cover
+*.hypothesis/
